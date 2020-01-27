@@ -27,14 +27,14 @@ Add the following to your `Cargo.toml`
 
 ```toml
 [dependencies]
-viacep_rs = "0.1.0"
+viacep_rs = "0.2.0"
 serde_json = "1.0"
 ```
 
 Then in your `lib.rs` or `main.rs` file add:
 
 ```rust
-extern crate holiday_api_rust;
+extern crate viacep_rs;
 
 let client = ViaCepClient::new();
 
@@ -46,7 +46,6 @@ match client.get_zipcode("03177010") {
         println!("IBGE: {} | Address: {} | Neighborhood: {} | City: {} | UF: {}", cep.ibge, cep.Address, cep.Neighborhood, cep.City, cep.state_initials);
     }
 }
-
 
 //Find by address data
 match client.search("SP", "Sâo Paulo", "Paulista") {
