@@ -3,7 +3,7 @@ The [ViaCEP](https://viacep.com.br) client wrapper written in Rust
 
 | Service      | Status |
 | -------      | :----: |
-| AppveyorCI   | [![Build status](https://ci.appveyor.com/api/projects/status/4ksqycqm761c06jb?svg=true)](https://ci.appveyor.com/project/guibranco/viacep-rs/branch/master) |
+| AppveyorCI   | [![Build status](https://ci.appveyor.com/api/projects/status/w1di231c9hr2tyhy/branch/master?svg=true)](https://ci.appveyor.com/project/guibranco/viacep-rs/branch/master) |
 | crates.io    | [![crates.io](https://img.shields.io/crates/v/viacep-rs.svg)](https://crates.io/crates/viacep-rst) |
 
 Pure Rust bindings to the [Holiday API](https://holidayapi.com).
