@@ -43,12 +43,12 @@ match client.get_zipcode("03177010") {
     Err(e) => eprintln!("{:?}", e),
     Ok(data) => {
         let cep = data.unwrap();
-        println!("IBGE: {} | Address: {} | Neighborhood: {} | City: {} | UF: {}", cep.ibge, cep.Address, cep.Neighborhood, cep.City, cep.state_initials);
+        println!("IBGE: {} | Address: {} | Neighborhood: {} | City: {} | UF: {}", cep.ibge, cep.address, cep.neighborhood, cep.City, cep.state_initials);
     }
 }
 
 //Find by address data
-match client.search("SP", "Sâo Paulo", "Paulista") {
+match client.search("SP", "São Paulo", "Paulista") {
     Err(e) => eprintln!("{:?}", e),
     Ok(data) => {
         let addresses = data.unwrap();
