@@ -1,5 +1,5 @@
 # viacep-rs
-The [ViaCEP](https://viacep.com.br) client wrapper written in Rust
+The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
 
 | Service      | Status |
 | -------      | :----: |
