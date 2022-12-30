@@ -1,6 +1,11 @@
 # viacep-rs
 The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
 
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/guibranco/viacep-rsmaster)
+![Crates.io](https://img.shields.io/crates/d/viacep-rs)
+[![wakatime](https://wakatime.com/badge/github/guibranco/viacep-rs.svg)](https://wakatime.com/badge/github/guibranco/viacep-rs)
+
 | Service      | Status |
 | -------      | :----: |
 | AppveyorCI   | [![Build status](https://ci.appveyor.com/api/projects/status/w1di231c9hr2tyhy/branch/master?svg=true)](https://ci.appveyor.com/project/guibranco/viacep-rs/branch/master) |
