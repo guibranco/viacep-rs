@@ -1,4 +1,4 @@
-#  ViaCEP Rust client
+# ViaCEP Rust client
 
 The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
 
