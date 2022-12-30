@@ -1,6 +1,6 @@
-# viacep-rs
-The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
+#  ViaCEP Rust client
 
+The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/guibranco/viacep-rsmaster)
 ![Crates.io](https://img.shields.io/crates/d/viacep-rs)
@@ -11,7 +11,7 @@ The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
 | AppveyorCI   | [![Build status](https://ci.appveyor.com/api/projects/status/w1di231c9hr2tyhy/branch/master?svg=true)](https://ci.appveyor.com/project/guibranco/viacep-rs/branch/master) |
 | crates.io    | [![crates.io](https://img.shields.io/crates/v/viacep-rs.svg)](https://crates.io/crates/viacep-rs) |
 
-Pure Rust bindings to the [Holiday API](https://holidayapi.com).
+Pure Rust bindings to the [ViaCEP API](https://viacep.com.br).
 
 ## Dependencies and support
 
