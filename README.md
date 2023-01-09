@@ -10,11 +10,11 @@ The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
 | AppveyorCI   | [![Build status](https://ci.appveyor.com/api/projects/status/w1di231c9hr2tyhy/branch/master?svg=true)](https://ci.appveyor.com/project/guibranco/viacep-rs/branch/master) |
 | crates.io    | [![crates.io](https://img.shields.io/crates/v/viacep-rs.svg)](https://crates.io/crates/viacep-rs) |
 
-Pure Rust bindings to the [Holiday API](https://holidayapi.com).
+Pure Rust bindings to the [ViaCEP API](https://viacep.com.br).
 
 ## Dependencies and support
 
-viacep-rs is intended to work on all tier 1 supported Rust systems:
+`viacep-rs` is intended to work on all tier 1 supported Rust systems:
 
 - MacOSX
 - Linux
@@ -22,7 +22,7 @@ viacep-rs is intended to work on all tier 1 supported Rust systems:
 
 ## Minimum Compiler Version
 
-Due to the use of certain features holiday-api-rust requires `rustc` version 1.18 or
+Due to the use of certain features `viacep-rs` requires `rustc` version 1.18 or
 higher.
 
 ## Getting Started
