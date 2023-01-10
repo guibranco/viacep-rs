@@ -2,7 +2,7 @@
 
 The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/guibranco/viacep-rsmaster)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/guibranco/viacep-rs/master)
 ![Crates.io](https://img.shields.io/crates/d/viacep-rs)
 [![wakatime](https://wakatime.com/badge/github/guibranco/viacep-rs.svg)](https://wakatime.com/badge/github/guibranco/viacep-rs)
 
@@ -15,7 +15,7 @@ Pure Rust bindings to the [ViaCEP API](https://viacep.com.br).
 
 ## Dependencies and support
 
-viacep-rs is intended to work on all tier 1 supported Rust systems:
+`viacep-rs` is intended to work on all tier 1 supported Rust systems:
 
 - MacOSX
 - Linux
@@ -23,7 +23,7 @@ viacep-rs is intended to work on all tier 1 supported Rust systems:
 
 ## Minimum Compiler Version
 
-Due to the use of certain features holiday-api-rust requires `rustc` version 1.18 or
+Due to the use of certain features `viacep-rs` requires `rustc` version 1.18 or
 higher.
 
 ## Getting Started
