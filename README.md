@@ -2,7 +2,7 @@
 
 The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/guibranco/viacep-rs/master)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/guibranco/viacep-rs/main)
 ![Crates.io](https://img.shields.io/crates/d/viacep-rs)
 [![wakatime](https://wakatime.com/badge/github/guibranco/viacep-rs.svg)](https://wakatime.com/badge/github/guibranco/viacep-rs)
 
