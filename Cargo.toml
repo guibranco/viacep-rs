@@ -3,16 +3,16 @@ name = "viacep_rs"
 version = "0.2.0"
 authors = ["Guilherme Branco Stracini <guilherme@guilhermebranco.com.br>"]
 edition = "2018"
-description = "The Via CEP client wrapper written in Rust."
+description = "The Via CEP client wrapper."
 repository = "https://github.com/guibranco/viacep-rs.git"
 homepage = "https://github.com/guibranco/viacep-rs"
-keywords = ["rest", "client", "cep", "viacep"]
+keywords = ["rest", "client","sdk", "cep", "viacep"]
 categories = ["network-programming", "web-programming::http-client"]
 readme = "README.md"
 license = "MIT"
 
 [badges]
-appveyor = { repository = "guibranco/viacep-rs", branch = "master", service = "github" }
+appveyor = { repository = "guibranco/viacep-rs", branch = "main", service = "github" }
 
 [dependencies]
 dotenv = "0.11.0"
