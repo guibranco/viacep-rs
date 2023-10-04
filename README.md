@@ -1,6 +1,6 @@
 # ViaCEP Rust client
 
-The [ViaCEP](https://viacep.com.br) client wrapper written in Rust.
+🇧🇷📍[ViaCEP](https://viacep.com.br) client wrapper for Rust projects.
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/guibranco/viacep-rs/main)
 ![Crates.io](https://img.shields.io/crates/d/viacep-rs)
