@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-logo: https://raw.githubusercontent.com/guibranco/viacep-rs/master/logo.png
+title: ViaCEP Rust client
+description: The ViaCEP client for Rust projects.
+logo: https://raw.githubusercontent.com/guibranco/viacep-rust/maon/logo.png
 show_downloads: true
