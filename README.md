@@ -12,7 +12,7 @@
 
 | Service      | Status |
 | -------      | :----: |
-| AppveyorCI   | [![Build status](https://ci.appveyor.com/api/projects/status/w1di231c9hr2tyhy/branch/master?svg=true)](https://ci.appveyor.com/project/guibranco/viacep-rs/branch/master) |
+| AppVeyor CI   | [![Build status](https://ci.appveyor.com/api/projects/status/w1di231c9hr2tyhy/branch/main?svg=true)](https://ci.appveyor.com/project/guibranco/viacep-rs/branch/main) |
 | crates.io    | [![crates.io](https://img.shields.io/crates/v/viacep-rs.svg)](https://crates.io/crates/viacep-rs) |
 
 Pure Rust bindings to the [ViaCEP API](https://viacep.com.br).
@@ -72,4 +72,4 @@ match client.search("SP", "São Paulo", "Paulista") {
 
 Licensed under
 
-- MIT license ([LICENSE](https://github.com/guibranco/viacep-rs/blob/master/LICENSE) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
+- MIT license ([LICENSE](https://github.com/guibranco/viacep-rs/blob/main/LICENSE) or [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT))
