@@ -6,8 +6,6 @@
 ![Crates.io](https://img.shields.io/crates/d/viacep-rs)
 [![wakatime](https://wakatime.com/badge/github/guibranco/viacep-rs.svg)](https://wakatime.com/badge/github/guibranco/viacep-rs)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/edadaf30dee88d89995c/maintainability)](https://codeclimate.com/github/guibranco/viacep-rs/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/edadaf30dee88d89995c/test_coverage)](https://codeclimate.com/github/guibranco/viacep-rs/test_coverage)
 [![CodeFactor](https://www.codefactor.io/repository/github/guibranco/viacep-rs/badge)](https://www.codefactor.io/repository/github/guibranco/viacep-rs)
 
 | Service      | Status |
